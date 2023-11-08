@@ -1,0 +1,12 @@
+{
+  "ventas": [
+    {
+      "id": 1,
+      "cliente": "cliente 1",
+      "producto": "producto 1",
+      "precio": 20.000,
+      "fecha": "noviembre 1",
+      "descripcion": "muy buenos los producto"
+    }
+  ]
+}
